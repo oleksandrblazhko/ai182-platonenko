@@ -1,1 +1,1 @@
-![](https://drive.google.com/file/d/1RaCr5RWy_WvyPIkrHlTGdsB2YqgXQw3D/view?usp=sharing)
+![](https://drive.google.com/file/d/1rc3MqdmE7e_MNB1X5sKdABD0jnHVPX3U/view?usp=sharing)
