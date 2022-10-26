@@ -1,1 +1,1 @@
-![test](https://drive.google.com/file/d/1rc3MqdmE7e_MNB1X5sKdABD0jnHVPX3U/view?usp=sharing)
+![DV](https://github.com/oleksandrblazhko/ai182-platonenko/raw/laboratory-work-2/Laboratory-work-2/2.7-PlantUML/DV.png)
