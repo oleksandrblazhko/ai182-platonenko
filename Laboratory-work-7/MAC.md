@@ -19,6 +19,9 @@
 6. Створіть INSERT/UPDATE/DELETE-правила повноважного керування доступом для користувача.
 
 ![6](https://i.imgur.com/cAewlf0.png)
+![6](https://i.imgur.com/G4SFfYy.png)
+![6](https://i.imgur.com/8uGaNrz.png)
+![6](https://i.imgur.com/bTjII3M.png)
 
 7. Перевірте роботу механізму повноважного керування, виконавши операції SELECT, INSERT, UPDATE, DELETE
 
