@@ -6,6 +6,10 @@
 
 ![2](https://i.imgur.com/IAvq3UK.png)
 
+![2](https://i.imgur.com/lTU9x3T.png)
+
+![2](https://i.imgur.com/dS5JzcA.png)
+
 3. Перевірте роботу механізму вибіркового керування, виконавши операції SELECT, INSERT, UPDATE, DELETE.
 
 ![3](https://i.imgur.com/Kh7WpD4.png)
